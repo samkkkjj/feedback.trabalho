@@ -19,7 +19,7 @@ export function App() {
         <input type="button" value={5} className="bg-dark-blue w-10.5 h-10.5 rounded-full text-medium-grey text-sm font-bold" />
         </div>
 
-        <button className="">Enviar</button>
+        <button className="bg-orange w-full py-3 rounded-3xl uppercase text-sm tracking-1">Enviar</button>
     </div>
 
   )
